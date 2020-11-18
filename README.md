@@ -5,3 +5,6 @@ Since the rgb2hsi is not availabe in python, it should be imlemented in matlab w
 The Code for difference detection takes images from same sesors for better information retaintation .
 hence here no image registration is performed.
 It is basicallly swap of channels.
+
+
+for stiching part specify the inputs in input folders.
